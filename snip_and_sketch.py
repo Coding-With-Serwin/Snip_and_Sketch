@@ -30,7 +30,7 @@ class MyWindow(QMainWindow):
         self.win_width = 340
         self.win_height = 200
         self.setGeometry(50, 50, self.win_width, self.win_height)
-        self.setWindowTitle("Snipping Tool for Programmers")
+        self.setWindowTitle("Snip And Sketch")
         self.initUI()
         
         
