@@ -1,7 +1,7 @@
 """
 Snip_and_sketch - This program enables the user to snip portions of the screen, performs text recognition on the snipped image and then either performs an automatic google search in the chosen browser or copies the text to clip board.
 
-@author: Pranav Bairy
+@author: Pranav578, Sijey-Praveen
 """
 
 import os
